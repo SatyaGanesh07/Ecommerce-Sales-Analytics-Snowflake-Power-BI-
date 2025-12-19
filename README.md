@@ -164,5 +164,3 @@ Overall, this project reflects an analytics engineering mindset—combining SQL 
 For any questions or suggestions, please open an issue or contact me via LinkedIn:  
 [Satya Ganesh LinkedIn](https://www.linkedin.com/in/satya-ganesh-5a89b2283/)
 
-[Satya Ganesh LinkedIn](https://www.linkedin.com/in/satya-ganesh-5a89b2283/)  
-
