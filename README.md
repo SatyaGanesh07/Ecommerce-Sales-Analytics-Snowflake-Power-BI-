@@ -145,33 +145,24 @@ Power BI semantic modeling
 Advanced DAX for KPIs
 
 Business-focused dashboard design
-
-
-*** 
-
-
-***
-
-## Model Design Principles
-
-- Star-schema for flexibility and performance.
-- Clear, descriptive measure names with comments.
-- Dynamic calculations influenced by slicers and time filters.
-- Focused visual design for business effectiveness.
-
 ***
 
 ## Final Thoughts
 
-This project is the culmination of focused learning, problem-solving, and application of analytics best practices. It reflects my growth in Power BI, DAX, and business intelligence storytelling.
+This project demonstrates a real-world analytics workflow, not just dashboard creation.
+It highlights the importance of data quality, structured modeling, and business-focused analysis when working with transactional data.
 
-I am excited to leverage these skills in future analytics challenges and deliver impactful solutions.
+By using Snowflake for validation, transformation, and dimensional modeling, the project ensures that business metrics such as revenue, delivery performance, and customer satisfaction are trustworthy and reproducible.
+Power BI then builds on this foundation to deliver clear, interactive insights that support operational and strategic decision-making.
+
+Overall, this project reflects an analytics engineering mindset—combining SQL proficiency, data modeling discipline, and BI reporting skills—aligned with expectations for Data Analyst / BI Analyst roles in modern organizations.
 
 ***
 
 ## Contact
 
-Please reach out with any questions or collaboration interests:
+For any questions or suggestions, please open an issue or contact me via LinkedIn:  
+[Satya Ganesh LinkedIn](https://www.linkedin.com/in/satya-ganesh-5a89b2283/)
 
 [Satya Ganesh LinkedIn](https://www.linkedin.com/in/satya-ganesh-5a89b2283/)  
 
