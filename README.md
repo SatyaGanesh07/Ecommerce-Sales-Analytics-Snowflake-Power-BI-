@@ -10,7 +10,6 @@ CSV → Snowflake Data Warehouse → Power BI Semantic Model → Interactive Das
 Explore the interactive dashboard here:
 👉 [  View   ](https://app.powerbi.com/view?r=eyJrIjoiNDMzMDk5NjMtM2Y1ZC00MTU1LTkzNTQtMjEzNWJkYTM5ZjJmIiwidCI6ImRjODhkNWNiLWMxMjEtNDUzYi1hMGRiLTFmMzlmYjEyMjJiMyJ9)
 ***
-
 ## About This Project
 
 This project is an **end-to-end ecommerce analytics solution** built using **Snowflake as the cloud data warehouse** and **Power BI for reporting and visualization**.
@@ -62,6 +61,8 @@ Power BI (Import Mode)
 Business Dashboards & KPIs
 ```
 
+![image alt](https://github.com/SatyaGanesh07/Ecommerce-Sales-Analytics-Snowflake-Power-BI-/blob/b0e6616868c4ab217cc84acae399324ef1c29f17/Snowflake%20to%20power%20bi.jpeg)
+
 ## End-to-End Methodology 
 ### Data Ingestion (CSV → Snowflake)
 - Raw ecommerce CSV files loaded into Snowflake
@@ -90,7 +91,7 @@ Business Dashboards & KPIs
 
 ***
 
-## Snowflake Architecture & Data Modeling
+## Snowflake Architecture 
 
 **Warehouse Design:**
 - Database: `ecommerce_db`
@@ -100,14 +101,6 @@ Business Dashboards & KPIs
   - `stg_ecommerce` (standardization)
   - `cln_ecommerce` (analytics-ready)
   - Dimensions & Fact tables
-
-### Star Schema (Power BI Model)
-- Fact table holds measures and dates
-- Dimensions provide slicing and filtering
-- Designed for scalability and reporting efficiency
-
-*Power BI Data Model Screenshot*  
-*(Add your data modeling image here)*
 
 ---
 ## Dashboard Features
@@ -129,8 +122,7 @@ Business Dashboards & KPIs
 
 ![image alt](https://github.com/SatyaGanesh07/Ecommerce-13-Weeks-Sales-Analysis/blob/891d3e9d370486e1bee54358fc9bb2f400701179/Dashboards/Ecommerce%20Sales%203.png)
 #####
-![image alt](https://github.com/SatyaGanesh07/Ecommerce-13-Weeks-Sales-Analysis/blob/891d3e9d370486e1bee54358fc9bb2f400701179/Dashboards/Ecommerce%20Sales%202.png)
-
+![image alt](https://github.com/SatyaGanesh07/Ecommerce-Sales-Analytics-Snowflake-Power-BI-/blob/940140b0fecba6dc6da5e20c5a0a1f9ada1980d7/Power%20Bi%20Data%20Modeling.png)
 *** 
 ##  Tools & Technologies
 
